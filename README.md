@@ -1,6 +1,6 @@
 # 🔍 Database Indexing Internals Demo
 
-A hands-on mini project to understand how database indexing works under the hood using PostgreSQL. This repository is the companion code for my Medium article.
+A hands-on mini project to understand how database indexing works under the hood using PostgreSQL. This repository is the companion code for my Medium article released soon.
 
 ## What This Demo Does
 
